@@ -1,0 +1,78 @@
+{
+  "country": {
+    "metric": "Reported live IT capacity",
+    "unit": "GW",
+    "publicationDate": "2026-03-03",
+    "source": "https://www.rabobank.com/knowledge/d011516164-north-americas-data-center-outlook-strong-demand-power-hungry",
+    "values": [
+      {
+        "country": "United States",
+        "gw": 30
+      },
+      {
+        "country": "Canada",
+        "gw": 1.6
+      },
+      {
+        "country": "Mexico",
+        "gw": 0.2
+      }
+    ]
+  },
+  "growth": {
+    "metric": "US primary-market wholesale colocation supply, as reported",
+    "unit": "MW",
+    "note": "Annual reports have changing market coverage and revisions; this is not a fixed-market facility-count series. Hillsboro is secondary in 2021\u20132022 and primary by 2024. No like-for-like growth rate calculated.",
+    "values": [
+      {
+        "year": 2021,
+        "mw": 3358.1,
+        "source": "https://www.cbre.com/insights/reports/north-america-data-center-trends-h2-2021"
+      },
+      {
+        "year": 2022,
+        "mw": 3928.7,
+        "source": "https://www.cbre.com/insights/reports/north-america-data-center-trends-h2-2022"
+      },
+      {
+        "year": 2023,
+        "mw": 5174.1,
+        "source": "https://www.cbre.com/insights/reports/north-america-data-center-trends-h2-2023"
+      },
+      {
+        "year": 2024,
+        "mw": 6922.6,
+        "source": "https://www.cbre.com/insights/reports/north-america-data-center-trends-h2-2024"
+      },
+      {
+        "year": 2025,
+        "mw": 9432,
+        "source": "https://www.cbre.com/insights/books/north-america-data-center-trends-h2-2025"
+      }
+    ]
+  },
+  "forecast": {
+    "metric": "Risked cumulative data center facility capacity",
+    "region": "North America (US, Canada and Mexico)",
+    "unit": "GW",
+    "report": "Rystad Energy, Data Center Report 2026, condensed edition",
+    "source": "https://sf-asset-manager.s3.amazonaws.com/97637/392/7743.pdf#page=14",
+    "sourcePage": 14,
+    "checkedOn": "2026-09-28",
+    "basis": "Facility capacity, including traditional, AI/HPC and crypto workloads. Source risked projection; not actual capacity, a count of facilities, or live IT load. Rounded chart labels transcribed from page 14.",
+    "values": [
+      {
+        "year": 2027,
+        "gw": 88
+      },
+      {
+        "year": 2028,
+        "gw": 100
+      },
+      {
+        "year": 2029,
+        "gw": 112
+      }
+    ]
+  }
+}
